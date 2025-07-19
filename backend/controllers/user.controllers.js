@@ -87,6 +87,7 @@ export const askToAssistant=async (req,res)=>{
       case 'general':
       case  "calculator-open":
       case "instagram-open": 
+      case "twitter-open": 
        case "facebook-open": 
        case "weather-show" :
          return res.json({

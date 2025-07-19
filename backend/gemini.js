@@ -27,6 +27,7 @@ Type meanings:
 - "youtube-play": if user wants to directly play a video or song.
 - "calculator-open": if user wants to  open a calculator .
 - "instagram-open": if user wants to  open instagram .
+- "twitter-open": if user wants to  open twitter .
 - "facebook-open": if user wants to open facebook.
 -"weather-show": if user wants to know weather
 - "get-time": if user asks for current time.
